@@ -7,13 +7,14 @@
     "pm2": "pm2 start ecosystem.config.js",
     "ngrok": "ngrok http -bind-tls=true -subdomain=$npm_package_name 8080",
     "test": "echo \"Error: no test specified\" && exit 1"
-  },  
+  },
   "author": "",
   "license": "ISC",
   "dependencies": {
     "body-parser": "^1.19.0",
     "cheerio": "^1.0.0-rc.3",
     "config": "^3.2.5",
+    "eo-api-client": "^1.0.1",
     "express": "^4.17.1",
     "request": "^2.88.0",
     "request-promise-native": "^1.0.8"

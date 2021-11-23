@@ -1,7 +1,5 @@
 {
     "eo": {
-        "email": "user@example.com",
-        "password": "password",
         "deviceId": 1,
         "playlistId": 1,
         "blankArtworkId": 340653
